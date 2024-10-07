@@ -1,0 +1,15 @@
+{
+    "name": "nigo/translator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nigo\\Translator\\": "src/Translator"
+        }
+    },
+    "require": {
+        "php": ">=8.2",
+        "symfony/http-client": "^7.1",
+        "larapack/dd": "^1.1",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
