@@ -1,5 +1,5 @@
 {
-    "name": "nigo/translator",
+    "name": "nigo/simple-libre-translator",
     "type": "library",
     "autoload": {
         "psr-4": {

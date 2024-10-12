@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "php",
+            "name": "translator.php",
+            "file": "examples/translator.php",
+        },
+
+    ]
+}
